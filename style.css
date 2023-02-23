@@ -7,6 +7,10 @@ h1 {
     font-size: 70px;
 }
 
+h2 {
+    font-size: 50px;
+}
+
 .Aa {
     margin-bottom: -7%;
 }
@@ -15,7 +19,7 @@ h1 {
     color: tomato;
 }
 
-section {
+.ABC {
     display: flex;
     margin-bottom: 100px;
 }
@@ -65,4 +69,36 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.GGG {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    padding: 45px;
+}
+
+.FFF {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#abc {
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, orange);
+    border-image-slice: 1;
+}
+
+#xyz {
+    border-left: 7px solid;
+    border-image: linear-gradient(deeppink, blueviolet);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
