@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.Ab {
+    color: tomato;
+}
+
+section {
+    display: flex;
+}
+
+.AAA {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.AAA img {
+    display: block;
+    margin-right: auto;
+    width: 90%;
+}
+
+.BBB {
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: ivory;
+    font-weight: 700;
+}
+
+.CCC {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
