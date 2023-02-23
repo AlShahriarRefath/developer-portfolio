@@ -7,17 +7,23 @@ h1 {
     font-size: 70px;
 }
 
+.Aa {
+    margin-bottom: -7%;
+}
+
 .Ab {
     color: tomato;
 }
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .AAA {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 6%;
+    padding-top: 2%;
 }
 
 .AAA img {
@@ -39,4 +45,24 @@ section {
 .CCC {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.Ac {
+    color: deeppink;
+}
+
+.EEE {
+    background-image: linear-gradient(deeppink, blueviolet);
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: ivory;
+    font-weight: 700;
+}
+
+.DDD {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
